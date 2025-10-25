@@ -50,5 +50,4 @@
 ---
 
 
-- [Live Demo / Vercel Link](#)  
-- [GitHub Repository](#)
+
